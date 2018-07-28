@@ -1,3 +1,0 @@
-hi
-hellow
-how are you 
